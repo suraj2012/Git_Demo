@@ -6,3 +6,6 @@ Console.WriteLine("I am a developer....");
 
 
 
+Employee emp = new Employee();
+emp.GetInfo();
+emp.EmployeeDetails("Suraj", 28);
